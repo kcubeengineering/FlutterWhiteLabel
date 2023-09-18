@@ -24,3 +24,6 @@
 
 ### the pubspec.yaml snippet
 <img width="440" alt="image" src="https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/04073598-a9fa-4c15-8236-b90136214216">
+
+### Testing the server with postman
+<img width="961" alt="image" src="https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/ed600c26-ad54-4cf4-81c2-8c6889698f60">
