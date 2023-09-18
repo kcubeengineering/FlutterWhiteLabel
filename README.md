@@ -22,3 +22,5 @@
 
 ![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/0e5ca815-10bd-49cc-b148-a57c90616e55)
 
+### the pubspec.yaml snippet
+<img width="440" alt="image" src="https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/04073598-a9fa-4c15-8236-b90136214216">
