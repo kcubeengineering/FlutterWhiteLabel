@@ -7,6 +7,9 @@
 ### screen hot of iOS of the product catalog.
 ![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/bb45440c-514e-417c-b18d-1874bf5a5593)
 
+### screen shot of the iOS store or item location 
+![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/0203c120-e6ba-49af-8fef-093ac7b6f9b9)
+
 
 ###  iOS deployment to Test Flight
 ![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/a5880cce-b3d5-403a-9c77-360436759047)
