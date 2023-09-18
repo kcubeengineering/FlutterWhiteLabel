@@ -1,6 +1,10 @@
 # FlutterWhiteLabel
 ## Screen shots of the Flutter e-Commerce app build by Kang Engineering Systems LLC
 
+### Android look of the product catalog from consumer view.
+![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/3186444c-b885-4893-8771-762c45e748ab)
+
+
 ###  iOS deployment to Test Flight
 ![image](https://github.com/sk92129/FlutterWhiteLabel/assets/1682772/a5880cce-b3d5-403a-9c77-360436759047)
 
